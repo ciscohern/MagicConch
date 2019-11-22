@@ -9,7 +9,7 @@ characters interact with the Conch.
 
 ## Example
  
-![]("https://github.com/ciscohern/MagicConch/blob/master/magicConch.gif")
+![](https://github.com/ciscohern/MagicConch/blob/master/magicConch.gif)
 
 ## Built With
 
